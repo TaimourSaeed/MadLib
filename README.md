@@ -4,6 +4,6 @@ My attempt at a MadLib with some extras, if you dont know what a MadLib is, it's
 
 # What I Learned
 
-* String cocatenation using f-strings
-* Create a loop using the while loop function
-* expirmented with input validation
+* String cocatenation using f-strings.
+* Created a loop using the while function to allow the user to repeat the script to their hearts content.
+* expirmented with input validation.
